@@ -1,6 +1,6 @@
 # Crime Rate Analysis and Prediction
 ## Purpose
-This was my term project for Methods of Applied Statistics (Fall 2023). Using a complex dataset containing environmental and demographic data of 2,000+ communities in the United States, and their associated rates of different crimes, the research question was two-fold:
+This was my term project for Methods of Applied Statistics (Fall 2023). Using a [complex dataset](https://archive.ics.uci.edu/dataset/211/communities+and+crime+unnormalized) containing environmental and demographic data of 2,000+ communities in the United States, and their associated rates of different crimes, the research question was two-fold:
 
 - What are the most significant predictors of crime, and do these depend on crime type?
 - How can we build a predictive model to predict crime rates for different crime types in new communities. In particular, I compared the performance of traditional linear regression techniques to modern tree-based models.
