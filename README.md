@@ -21,6 +21,9 @@ Prediction (Tree-Based) - Random Forest, XGBoost, Light GBM
 
 ## Files
 Data folder - contains raw and cleaned data, as well as some stored large intermediate variables
+
 Deliverables folder - contains final report PDF as well as project proposal, EDA and literature review, and final presentation slides.
+
 EDA_FeatureImportance folder - contains files needed for data cleaning and pre-processing, feature selection and feature importance tests, as well as a file where an EDA was performed with many visualizations of the data.
+
 Preciction - contains files where predictive models were built
