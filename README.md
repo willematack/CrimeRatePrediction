@@ -5,7 +5,7 @@ This was my term project for Methods of Applied Statistics (Fall 2023). Using a 
 - What are the most significant predictors of crime, and do these depend on crime type?
 - How can we build a predictive model to predict crime rates for different crime types in new communities. In particular, I compared the performance of traditional linear regression techniques to modern tree-based models.
 
-- My final report can be found [here](https://github.com/willematack/CrimeRatePrediction/blob/main/Deliverables/STA2101_Final_Report.pdf). It provides a detailed description of ethods used, and their justification, as well as a summary of results. My final presentation slides are [here](https://github.com/willematack/CrimeRatePrediction/blob/main/Deliverables/Presentation/PresentationSlides.pptx), which provide a brief summary of methods and results
+My final report can be found [here](https://github.com/willematack/CrimeRatePrediction/blob/main/Deliverables/STA2101_Final_Report.pdf). It provides a detailed description of methods used, and their justification, as well as a summary of results. My final presentation slides are [here](https://github.com/willematack/CrimeRatePrediction/blob/main/Deliverables/Presentation/PresentationSlides.pptx), which provide a brief summary of methods and results
 
 ## Skills Used
 
